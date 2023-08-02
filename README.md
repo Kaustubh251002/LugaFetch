@@ -15,7 +15,7 @@ This project provides a simple interface to view the total bound data for lugano
 
 ### Screenshots of the working project:
 
-<img src="/polkadot.png">
+<img src="/public/polkadot.png">
 <br />
-<img src="/kusama.png">
+<img src="/public/kusama.png">
 ---
