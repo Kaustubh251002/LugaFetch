@@ -87,7 +87,7 @@ const KusamaChart = () => {
         <Plot
           data={[dataTrace]}
           layout={{
-          width: 1000, height: 645, title: 'POLKADOT', xaxis: { title: 'Era', titlefont: { family: 'Roboto', size: 16 }, }, yaxis: { title: 'Total Bond', titlefont: { family: 'Roboto', size: 16 }, }, hovermode: 'closest',
+          width: 1000, height: 645, title: 'KUSAMA', xaxis: { title: 'Era', titlefont: { family: 'Roboto', size: 16 }, }, yaxis: { title: 'Total Bond', titlefont: { family: 'Roboto', size: 16 }, }, hovermode: 'closest',
             hoverlabel: { font: { family: 'Roboto', size: 14} }, // Customize hover label font
             legend: {
               x: 0.8, // Adjust the legend's x position
