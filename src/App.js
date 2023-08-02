@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import Chart from './components/Chart';
 
 function App() {
   return (
-    <div className="App">
-      <div className="text-red-700 text-bold text-3xl"></div>
-    </div>
+    <>
+    <Chart />
+    </>
   );
 }
 
 export default App;
-q
